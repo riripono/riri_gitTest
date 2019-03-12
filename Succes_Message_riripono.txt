@@ -1,0 +1,8 @@
+
+# message
+# Github는 처음입니다.
+
+# 잘 작동이 되는지 테스트 하기 위해 작성했습니다.
+
+# Contact
+# E-mail : r_ro0628@naver.com
